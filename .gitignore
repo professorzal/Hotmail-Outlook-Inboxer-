@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+Results/
+acc.txt
+proxies.txt
+*.session
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
